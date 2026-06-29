@@ -67,7 +67,6 @@
 | [🖼️ Pixora Image Gallery](https://github.com/imashwin-max/Pixora-ImageGallery) | Responsive image gallery web app with clean UI | HTML, CSS, JavaScript |
 | [🧮 Scientific Calculator](https://github.com/imashwin-max/scientific-calculator) | Feature-rich scientific calculator with advanced math functions | HTML, CSS, JavaScript |
 | [🎮 Gamequest](https://github.com/imashwin-max/Gamequest) | Interactive game-based web project | HTML, CSS, JS |
-| [🟩 Green Game Grid](https://github.com/imashwin-max/green-game-grid) | Grid-based browser game with green theme | HTML, CSS, JavaScript |
 
 ---
 
