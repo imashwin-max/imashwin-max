@@ -51,7 +51,13 @@ Chennai, India | im.ashwinkk@gmail.com
 | [🧮 Scientific Calculator](https://github.com/imashwin-max/scientific-calculator) | Feature-rich scientific calculator with advanced math functions | HTML, CSS, JavaScript |
 | [🎮 Gamequest](https://github.com/imashwin-max/Gamequest) | Interactive game-based web project | HTML, CSS, JS |
 | [💰 AI Finance Advisor](https://github.com/imashwin-max/AI-finance-advisor) | AI-powered tool that delivers personalized financial guidance and insights | Python, AI/ML |
+### 🚀 FlowPilot AI
+AI-powered workflow command center that turns plain-language requests into routed approvals, activity logs, and executive analytics.
 
+- 🔗 **Live Demo:** [flow-pilot-ai-xi.vercel.app](https://flow-pilot-ai-xi.vercel.app/)
+- 💻 **Repo:** [FlowPilot-AI](https://github.com/imashwin-max/FlowPilot-AI)
+- 🛠️ **Stack:** Next.js 15, TypeScript, Supabase, Google Gemini, Tailwind CSS, Recharts
+- 🏆 Built for the **TakeOver'26 (Theme 2)** hackathon
 ---
 
 ### 📊 GitHub Stats
