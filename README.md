@@ -9,7 +9,7 @@ Chennai, India | im.ashwinkk@gmail.com
 
 ### 🧠 About Me
 
-- 🎓 B.Tech Engineering student at **Crescent University – NIAT Collaboration**, Chennai (CGPA: 8.9)
+- 🎓 B.Tech Engineering student at **Crescent University – NIAT Collaboration**, Chennai (CGPA: 9.2)
 - 💼 Ex Software Engineer Intern @ **Yuga Yatra Retail**
 - 🤖 Passionate about building at the intersection of **AI and full-stack development**
 - 🔨 Currently building real-world projects in **Python, FastAPI, React, Next.js**
