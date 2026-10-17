@@ -37,21 +37,23 @@ Chennai, India | im.ashwinkk@gmail.com
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
 ---
-
 ### 🚀 Projects
 
 | Project | Description | Stack |
-| --- | --- | --- |
-| [🐦 Twiller App](https://github.com/imashwin-max/Twiller-app) | Full-stack Twitter/X clone with audio tweets, subscription plans (Razorpay), browser notifications & multi-language support | Next.js, Express, MongoDB, Firebase, TypeScript |
-| [🏥 NayePankh Foundation Portal](https://github.com/imashwin-max/nayepankh-foundation-portal) | AI-powered NGO portal with live chatbot, intern registration, impact dashboard & donation page | HTML, CSS, JS, Claude AI API |
-| [🧠 Sentiment Analysis API](https://github.com/imashwin-max/Sentiment-Analysis) | REST API classifying text as Positive, Negative, or Neutral using semantic embeddings | Python, FastAPI, NLP |
-| [🌿 AI Village Doctor](https://github.com/imashwin-max/ai-village-doctor) | AI chatbot prototype bringing basic healthcare support to rural villages with multilingual support | OpenAI API, Embeddings |
-| [👁️ VisionTrack — Real-Time Object Detection & Tracking](https://github.com/imashwin-max/visiontrack) | Live webcam & video detection with YOLOv8 + DeepSORT tracking. WebSocket streaming, 80 COCO classes, persistent object IDs | React, FastAPI, YOLOv8, DeepSORT, OpenCV, WebSockets |
-| [🖼️ Pixora Image Gallery](https://github.com/imashwin-max/Pixora-ImageGallery) | Responsive image gallery web app with clean UI | HTML, CSS, JavaScript |
-| [🧮 Scientific Calculator](https://github.com/imashwin-max/scientific-calculator) | Feature-rich scientific calculator with advanced math functions | HTML, CSS, JavaScript |
-| [🎮 Gamequest](https://github.com/imashwin-max/Gamequest) | Interactive game-based web project | HTML, CSS, JS |
-| [💰 AI Finance Advisor](https://github.com/imashwin-max/AI-finance-advisor) | AI-powered tool that delivers personalized financial guidance and insights | Python, AI/ML |
-| 🚀 [FlowPilot AI](https://github.com/imashwin-max/FlowPilot-AI) | AI-powered workflow command center that turns plain-language requests into routed approvals, activity logs, and executive analytics | Next.js, TypeScript, Supabase, Gemini |
+| :--- | :--- | :--- |
+| 🚀 [FlowPilot AI](https://github.com/imashwin-max/FlowPilot-AI) | AI-powered workflow command center turning natural language requests into routed approvals, capacity impact simulations, and audit trails | Next.js 15, TypeScript, Supabase, Gemini, Clerk |
+| 💰 [AI Finance Advisor](https://github.com/imashwin-max/AI-finance-advisor) | Personal wealth analytics platform with bank CSV ingestion, auto-seeded demo records, spending predictions, health scores & PDF export | FastAPI, React 18, TypeScript, Python, Gemini, SQLAlchemy |
+| 🍽️ [Haven Sanctuary](https://github.com/imashwin-max/Haven-Restaurent) | Luxury Indian dining web app with storytelling canvas, Groq LLaMA 3 AI Sommelier, Redis OTP auth, 3D payments & live KDS Kanban | Next.js 14, TypeScript, Tailwind CSS, Groq AI, Upstash Redis |
+| ⚡ [Winx Agency](https://github.com/imashwin-max/WinX) | Enterprise AI & automation agency single-page site with luxury editorial aesthetics, Framer Motion scroll physics & Zod form validation | React 18, Vite, Tailwind CSS, Framer Motion, Zod |
+| 🐦 [Twiller App](https://github.com/imashwin-max/Twiller-app) | Full-stack Twitter/X clone with audio tweets, subscription plans (Razorpay), browser notifications & multi-language support | Next.js, Express, MongoDB, Firebase, TypeScript |
+| 🏥 [NayePankh Foundation Portal](https://github.com/imashwin-max/nayepankh-foundation-portal) | AI-powered NGO portal with live chatbot, intern registration, impact dashboard & donation page | HTML, CSS, JS, Claude AI API |
+| 🧠 [Sentiment Analysis API](https://github.com/imashwin-max/Sentiment-Analysis) | REST API classifying text as Positive, Negative, or Neutral using semantic embeddings | Python, FastAPI, NLP |
+| 🌿 [AI Village Doctor](https://github.com/imashwin-max) | AI chatbot prototype bringing basic healthcare support to rural villages with multilingual support | OpenAI API, Embeddings |
+| 👁️ [VisionTrack — Real-Time Object Detection & Tracking](https://github.com/imashwin-max) | Live webcam & video detection with YOLOv8 + DeepSORT tracking. WebSocket streaming, 80 COCO classes, persistent object IDs | React, FastAPI, YOLOv8, DeepSORT, OpenCV, WebSockets |
+| 🖼️ [Pixora Image Gallery](https://github.com/imashwin-max) | Responsive image gallery web app with clean UI | HTML, CSS, JavaScript |
+| 🧮 [Scientific Calculator](https://github.com/imashwin-max) | Feature-rich scientific calculator with advanced math functions | HTML, CSS, JavaScript |
+| 🎮 [Gamequest](https://github.com/imashwin-max) | Interactive game-based web project | HTML, CSS, JS |
+
 ---
 
 ### 📊 GitHub Stats
