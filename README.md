@@ -1,83 +1,71 @@
 # Hey, I'm Ashwin K 👋
 
-**Engineering Student · AI + Full Stack Developer · Builder**  
-Chennai, India | im.ashwinkk@gmail.com
+*Engineering Student · AI + Full-Stack Developer · Builder*  
+Chennai, India | [im.ashwinkk@gmail.com](mailto:im.ashwinkk@gmail.com)
 
-[![profile views](https://komarev.com/ghpvc/?username=imashwin-max&style=flat-square&color=blue)](https://github.com/imashwin-max) [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/imashwin-max) [![](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square)]()
+🌐 **Live Portfolio:** [ashwin-portfolio-olive.vercel.app](https://ashwin-portfolio-olive.vercel.app/)  
+🔗 **Connect:** [LinkedIn](https://linkedin.com/in/ashwin0027) • [GitHub](https://github.com/imashwin-max)
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 B.Tech Engineering student at **Crescent University – NIAT Collaboration**, Chennai (CGPA: 9.2)
-- 💼 Ex Software Engineer Intern @ **Yuga Yatra Retail**
-- 🤖 Passionate about building at the intersection of **AI and full-stack development**
-- 🔨 Currently building real-world projects in **Python, FastAPI, React, Next.js**
-- 📚 Trained at **NxtWave Institute of Advanced Technologies** in Python, Web Dev & AI fundamentals
-- 💡 Strong believer in learning by building
+- 🎓 B.Tech Engineering student (AI & ML) at **Crescent University – NIAT Collaboration**, Chennai (CGPA: 9.26)
+- 💼 Ex-Software Engineer Intern @ **Yuga Yatra Retail** & ML Intern @ **FlyRank.ai**
+- 🤖 Passionate about building at the intersection of **AI, Computer Vision, and full-stack development**
+- 🏆 **TakeOver'26 Grand Finalist** (Top 1% across 1,200+ teams)
+- 🔨 Currently building production-ready apps using **Next.js, FastAPI, Python, TypeScript, and Supabase**
+- 💡 Strong believer in learning by building clean, scalable architecture
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages**
+**Languages:**  
+`Python` • `JavaScript` • `TypeScript` • `C++` • `SQL` • `C`
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
+**Frontend:**  
+`React 19` • `Next.js 15` • `Tailwind CSS` • `HTML5 / CSS3` • `Framer Motion`
 
-**Frontend**
+**Backend & AI:**  
+`FastAPI` • `Node.js` • `Express` • `Gemini AI` • `Claude API` • `YOLOv8` • `DeepSORT` • `NLP` • `WebSockets`
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](#)
-
-**Backend & AI**
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#) [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](#) [![NLP](https://img.shields.io/badge/NLP-sentence--transformers-orange?style=flat-square)](#)
-
-**Database & Tools**
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](#) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
-
----
-### 🚀 Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🚀 [FlowPilot AI](https://github.com/imashwin-max/FlowPilot-AI) | AI-powered workflow command center turning natural language requests into routed approvals, capacity impact simulations, and audit trails | Next.js 15, TypeScript, Supabase, Gemini, Clerk |
-| 💰 [AI Finance Advisor](https://github.com/imashwin-max/AI-finance-advisor) | Personal wealth analytics platform with bank CSV ingestion, auto-seeded demo records, spending predictions, health scores & PDF export | FastAPI, React 18, TypeScript, Python, Gemini, SQLAlchemy |
-| 🍽️ [Haven Sanctuary](https://github.com/imashwin-max/Haven-Restaurent) | Luxury Indian dining web app with storytelling canvas, Groq LLaMA 3 AI Sommelier, Redis OTP auth, 3D payments & live KDS Kanban | Next.js 14, TypeScript, Tailwind CSS, Groq AI, Upstash Redis |
-| ⚡ [Winx Agency](https://github.com/imashwin-max/WinX) | Enterprise AI & automation agency single-page site with luxury editorial aesthetics, Framer Motion scroll physics & Zod form validation | React 18, Vite, Tailwind CSS, Framer Motion, Zod |
-| 🐦 [Twiller App](https://github.com/imashwin-max/Twiller-app) | Full-stack Twitter/X clone with audio tweets, subscription plans (Razorpay), browser notifications & multi-language support | Next.js, Express, MongoDB, Firebase, TypeScript |
-| 🏥 [NayePankh Foundation Portal](https://github.com/imashwin-max/nayepankh-foundation-portal) | AI-powered NGO portal with live chatbot, intern registration, impact dashboard & donation page | HTML, CSS, JS, Claude AI API |
-| 🧠 [Sentiment Analysis API](https://github.com/imashwin-max/Sentiment-Analysis) | REST API classifying text as Positive, Negative, or Neutral using semantic embeddings | Python, FastAPI, NLP |
-| 🌿 [AI Village Doctor](https://github.com/imashwin-max) | AI chatbot prototype bringing basic healthcare support to rural villages with multilingual support | OpenAI API, Embeddings |
-| 👁️ [VisionTrack — Real-Time Object Detection & Tracking](https://github.com/imashwin-max) | Live webcam & video detection with YOLOv8 + DeepSORT tracking. WebSocket streaming, 80 COCO classes, persistent object IDs | React, FastAPI, YOLOv8, DeepSORT, OpenCV, WebSockets |
-| 🖼️ [Pixora Image Gallery](https://github.com/imashwin-max) | Responsive image gallery web app with clean UI | HTML, CSS, JavaScript |
-| 🧮 [Scientific Calculator](https://github.com/imashwin-max) | Feature-rich scientific calculator with advanced math functions | HTML, CSS, JavaScript |
-| 🎮 [Gamequest](https://github.com/imashwin-max) | Interactive game-based web project | HTML, CSS, JS |
+**Databases & Tools:**  
+`Supabase (PostgreSQL)` • `MongoDB Atlas` • `Firebase` • `Redis` • `Git & GitHub` • `Docker` • `Vercel`
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=imashwin-max&theme=tokyonight&hide_border=true)](#) [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imashwin-max&theme=tokyonight)](#)
+| Project | Description | Stack | Live / Code |
+| :--- | :--- | :--- | :--- |
+| 🚀 **[FlowPilot AI](https://github.com/imashwin-max/FlowPilot-AI)** | Intelligent workflow automation and sprint orchestration platform converting natural language into approvals and simulations. TakeOver'26 Finalist. | Next.js 15, TypeScript, Supabase, Gemini AI | [Demo](https://flowpilot-ai.vercel.app) • [GitHub](https://github.com/imashwin-max/FlowPilot-AI) |
+| 💰 **[AI Finance Advisor](https://github.com/imashwin-max/AI-finance-advisor)** | Personal wealth dashboard with bank CSV parsing, dynamic budget forecasting, spending predictions, and PDF export. | FastAPI, React 18, TypeScript, Python, Gemini | [Demo](https://ai-finance-advisor-three.vercel.app) • [GitHub](https://github.com/imashwin-max/AI-finance-advisor) |
+| 👁️ **[VisionTrack](https://github.com/imashwin-max/VisionTrack)** | High-throughput computer vision pipeline for real-time object detection and tracking with sub-35ms inference latency. | FastAPI, YOLOv8, DeepSORT, OpenCV, WebSockets | [GitHub](https://github.com/imashwin-max/VisionTrack) |
+| 🍽️ **[Haven Sanctuary](https://github.com/imashwin-max/Haven-Restaurent)** | Luxury dining web app featuring interactive canvas storytelling, Groq LLaMA 3 AI Sommelier, Redis OTP, and live KDS Kanban. | Next.js 14, TypeScript, Tailwind CSS, Groq AI, Redis | [GitHub](https://github.com/imashwin-max/Haven-Restaurent) |
+| ⚡ **[WinX Agency](https://github.com/imashwin-max/WinX)** | Enterprise AI & automation agency single-page experience with luxury editorial aesthetics and fluid Framer Motion scroll physics. | React 18, Vite, Tailwind CSS, Framer Motion, Zod | [GitHub](https://github.com/imashwin-max/WinX) |
+| 🐦 **[Twiller](https://github.com/imashwin-max/Twiller-app)** | Full-stack Twitter/X clone featuring real-time feed updates, audio tweets, Firebase phone OTP, and Razorpay subscriptions. | Next.js, Express, MongoDB, Firebase, TypeScript | [Demo](https://twiller-app.vercel.app) • [GitHub](https://github.com/imashwin-max/Twiller-app) |
+| 🏥 **[NayePankh Foundation Portal](https://github.com/imashwin-max/nayepankh-foundation-portal)** | Responsive NGO portal with an AI-powered live chatbot, intern onboarding flow, impact metrics, and donation gateway. | HTML, CSS, JavaScript, Claude AI API | [GitHub](https://github.com/imashwin-max/nayepankh-foundation-portal) |
+| 🧠 **[Sentiment Analysis API](https://github.com/imashwin-max/Sentiment-Analysis)** | RESTful text classification service processing input text into semantic embeddings for sentiment inference. | Python, FastAPI, NLP, Scikit-learn | [GitHub](https://github.com/imashwin-max/Sentiment-Analysis) |
 
 ---
 
-### 🏆 Certifications
+### 🏆 Verified Certifications
 
-- ✅ Python Programming Certification — NxtWave
-- ✅ Web Development Fundamentals Certification
-- ✅ AI & Full Stack Development Training — NxtWave Institute
+- ✅ **Anthropic**: Model Context Protocol: Advanced Topics • Claude with AWS Bedrock • Claude with GCP Vertex AI • Introduction to Subagents
+- ✅ **NVIDIA Academy**: AI for All: From Basics to GenAI Practice
+- ✅ **IIT Bombay**: Python 3.4.3 National Certification (Score: 75%)
+- ✅ **OpenAI Academy & NxtWave**: Generative AI Mastery Workshop
+- 📁 *Explore all 30+ verified credentials on [My Live Portfolio](https://ashwin-portfolio-olive.vercel.app/)*
 
 ---
 
 ### 📈 Currently
 
-- 🔭 Building projects in **AI + Backend + Full Stack**
-- 🌱 Deepening skills in **FastAPI, Next.js, and NLP**
-- 👀 Open to **internships, collaborations, and entry-level roles**
-
----
+- 🔭 Building intelligent, scalable applications across **AI, Agentic Workflows & Full-Stack Systems**
+- 🌱 Exploring multi-agent orchestration and low-latency computer vision streaming
+- 💬 Open to **Software Engineering & AI/ML Internships / Roles**
 
 *"Consistency beats talent when talent doesn't work consistently."*
 
-**Let's connect → im.ashwinkk@gmail.com**
+📫 **Let's connect:** [im.ashwinkk@gmail.com](mailto:im.ashwinkk@gmail.com) • [LinkedIn](https://linkedin.com/in/ashwin0027) • [Portfolio](https://ashwin-portfolio-olive.vercel.app/)
