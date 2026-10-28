@@ -1,71 +1,123 @@
-# Hey, I'm Ashwin K 👋
+# 🌟 Hey there, I'm Ashwin K! 👋✨
 
-*Engineering Student · AI + Full-Stack Developer · Builder*  
-Chennai, India | [im.ashwinkk@gmail.com](mailto:im.ashwinkk@gmail.com)
+<div align="center">
 
-🌐 **Live Portfolio:** [ashwin-portfolio-olive.vercel.app](https://ashwin-portfolio-olive.vercel.app/)  
-🔗 **Connect:** [LinkedIn](https://linkedin.com/in/ashwin0027) • [GitHub](https://github.com/imashwin-max)
-
----
-
-### 🧠 About Me
-
-- 🎓 B.Tech Engineering student (AI & ML) at **Crescent University – NIAT Collaboration**, Chennai (CGPA: 9.26)
-- 💼 Ex-Software Engineer Intern @ **Yuga Yatra Retail** & ML Intern @ **FlyRank.ai**
-- 🤖 Passionate about building at the intersection of **AI, Computer Vision, and full-stack development**
-- 🏆 **TakeOver'26 Grand Finalist** (Top 1% across 1,200+ teams)
-- 🔨 Currently building production-ready apps using **Next.js, FastAPI, Python, TypeScript, and Supabase**
-- 💡 Strong believer in learning by building clean, scalable architecture
+🚀 **Engineering Student** · 🤖 **AI & ML Specialist** · 💻 **Full-Stack Developer** · 🛠️ **System Builder**  
+📍 *Chennai, India* 🇮🇳 | ✉️ [im.ashwinkk@gmail.com](mailto:im.ashwinkk@gmail.com)
 
 ---
 
-### 🛠 Tech Stack
+### 🌐 **[Explore My Live Interactive Portfolio 🚀](https://ashwin-portfolio-olive.vercel.app/)**
 
-**Languages:**  
-`Python` • `JavaScript` • `TypeScript` • `C++` • `SQL` • `C`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin0027/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imashwin-max)
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ashwin-portfolio-olive.vercel.app/)
 
-**Frontend:**  
-`React 19` • `Next.js 15` • `Tailwind CSS` • `HTML5 / CSS3` • `Framer Motion`
-
-**Backend & AI:**  
-`FastAPI` • `Node.js` • `Express` • `Gemini AI` • `Claude API` • `YOLOv8` • `DeepSORT` • `NLP` • `WebSockets`
-
-**Databases & Tools:**  
-`Supabase (PostgreSQL)` • `MongoDB Atlas` • `Firebase` • `Redis` • `Git & GitHub` • `Docker` • `Vercel`
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 💫 About Me 🧠✨
 
-| Project | Description | Stack | Live / Code |
-| :--- | :--- | :--- | :--- |
-| 🚀 **[FlowPilot AI](https://github.com/imashwin-max/FlowPilot-AI)** | Intelligent workflow automation and sprint orchestration platform converting natural language into approvals and simulations. TakeOver'26 Finalist. | Next.js 15, TypeScript, Supabase, Gemini AI | [Demo](https://flowpilot-ai.vercel.app) • [GitHub](https://github.com/imashwin-max/FlowPilot-AI) |
-| 💰 **[AI Finance Advisor](https://github.com/imashwin-max/AI-finance-advisor)** | Personal wealth dashboard with bank CSV parsing, dynamic budget forecasting, spending predictions, and PDF export. | FastAPI, React 18, TypeScript, Python, Gemini | [Demo](https://ai-finance-advisor-three.vercel.app) • [GitHub](https://github.com/imashwin-max/AI-finance-advisor) |
-| 👁️ **[VisionTrack](https://github.com/imashwin-max/VisionTrack)** | High-throughput computer vision pipeline for real-time object detection and tracking with sub-35ms inference latency. | FastAPI, YOLOv8, DeepSORT, OpenCV, WebSockets | [GitHub](https://github.com/imashwin-max/VisionTrack) |
-| 🍽️ **[Haven Sanctuary](https://github.com/imashwin-max/Haven-Restaurent)** | Luxury dining web app featuring interactive canvas storytelling, Groq LLaMA 3 AI Sommelier, Redis OTP, and live KDS Kanban. | Next.js 14, TypeScript, Tailwind CSS, Groq AI, Redis | [GitHub](https://github.com/imashwin-max/Haven-Restaurent) |
-| ⚡ **[WinX Agency](https://github.com/imashwin-max/WinX)** | Enterprise AI & automation agency single-page experience with luxury editorial aesthetics and fluid Framer Motion scroll physics. | React 18, Vite, Tailwind CSS, Framer Motion, Zod | [GitHub](https://github.com/imashwin-max/WinX) |
-| 🐦 **[Twiller](https://github.com/imashwin-max/Twiller-app)** | Full-stack Twitter/X clone featuring real-time feed updates, audio tweets, Firebase phone OTP, and Razorpay subscriptions. | Next.js, Express, MongoDB, Firebase, TypeScript | [Demo](https://twiller-app.vercel.app) • [GitHub](https://github.com/imashwin-max/Twiller-app) |
-| 🏥 **[NayePankh Foundation Portal](https://github.com/imashwin-max/nayepankh-foundation-portal)** | Responsive NGO portal with an AI-powered live chatbot, intern onboarding flow, impact metrics, and donation gateway. | HTML, CSS, JavaScript, Claude AI API | [GitHub](https://github.com/imashwin-max/nayepankh-foundation-portal) |
-| 🧠 **[Sentiment Analysis API](https://github.com/imashwin-max/Sentiment-Analysis)** | RESTful text classification service processing input text into semantic embeddings for sentiment inference. | Python, FastAPI, NLP, Scikit-learn | [GitHub](https://github.com/imashwin-max/Sentiment-Analysis) |
+- 🎓 **Undergraduate Engineer**: B.Tech in CSE (*Artificial Intelligence & Machine Learning*) at **Crescent University – NIAT Collaboration** 🏛️ (**CGPA: 9.26** 🌟)
+- 💼 **Industry Track Record**: 
+  - 🤖 *Machine Learning Intern* @ **[FlyRank.ai](https://internship.flyrank.ai/verify?id=FR-D11-7EA4E-3766F)**
+  - 💻 *Software Engineer Intern* @ **Yuga Yatra Retail**
+- 🏆 **TakeOver'26 Grand Finalist**: Placed in the **Top 1%** across 1,200+ competing engineering teams nationwide! 🥇⚡
+- 🎯 **What I Do**: Architecting end-to-end intelligent platforms, low-latency computer vision pipelines, and resilient full-stack systems.
+- 💡 **Philosophy**: *"I believe great software is built by understanding real problems first, architecting clean systems, and executing with precision."* 📐✨
 
 ---
 
-### 🏆 Verified Certifications
+## 🛠️ My Tech Toolbox 🧰⚡
 
-- ✅ **Anthropic**: Model Context Protocol: Advanced Topics • Claude with AWS Bedrock • Claude with GCP Vertex AI • Introduction to Subagents
-- ✅ **NVIDIA Academy**: AI for All: From Basics to GenAI Practice
-- ✅ **IIT Bombay**: Python 3.4.3 National Certification (Score: 75%)
-- ✅ **OpenAI Academy & NxtWave**: Generative AI Mastery Workshop
-- 📁 *Explore all 30+ verified credentials on [My Live Portfolio](https://ashwin-portfolio-olive.vercel.app/)*
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| 💻 **Languages** | `Python` 🐍 • `TypeScript` 📘 • `JavaScript` 💛 • `C++` ⚡ • `SQL` 🗄️ • `C` ⚙️ |
+| 🎨 **Frontend Magic** | `Next.js 15` ⚡ • `React 19` ⚛️ • `Tailwind CSS` 🌊 • `Framer Motion` 🪄 • `HTML5 / CSS3` 🎨 |
+| ⚙️ **Backend & Real-Time** | `FastAPI` ⚡ • `Node.js` 🟢 • `Express.js` 🚂 • `WebSockets` 🔌 • `REST APIs` 🌐 • `JWT Auth` 🔐 |
+| 🧠 **AI, ML & Vision** | `Google Gemini API` ✨ • `Claude API` 🤖 • `YOLOv8` 👁️ • `DeepSORT` 🎯 • `NLP` 📚 • `Scikit-learn` 📊 |
+| 🗄️ **Databases & Cloud** | `Supabase (PostgreSQL)` ⚡ • `MongoDB Atlas` 🍃 • `Firebase` 🔥 • `Redis` ⚡ • `Docker` 🐳 • `Vercel` ▲ |
 
 ---
 
-### 📈 Currently
+## 🚀 Featured Projects Showcase 🌟
 
-- 🔭 Building intelligent, scalable applications across **AI, Agentic Workflows & Full-Stack Systems**
-- 🌱 Exploring multi-agent orchestration and low-latency computer vision streaming
-- 💬 Open to **Software Engineering & AI/ML Internships / Roles**
+### ⚡ 01. [FlowPilot AI](https://github.com/imashwin-max/FlowPilot-AI) 🏆 *(TakeOver'26 Grand Finalist)*
+> 🤖 **Intelligent Workflow Automation & Sprint Orchestration Platform**
+- 🧠 Powered by **Gemini 1.5 Flash AI** for autonomous sprint planning and smart task breakdown.
+- 🔐 Secure **Supabase PostgreSQL** architecture with Row-Level Security (RLS) & real-time sync.
+- 📋 Drag-and-drop reactive Kanban board with automated action triggers.
+- 🔗 **[Live Demo](https://flow-pilot-ai-zeta.vercel.app/)** • **[GitHub Repository](https://github.com/imashwin-max/FlowPilot-AI)**
 
-*"Consistency beats talent when talent doesn't work consistently."*
+---
 
-📫 **Let's connect:** [im.ashwinkk@gmail.com](mailto:im.ashwinkk@gmail.com) • [LinkedIn](https://linkedin.com/in/ashwin0027) • [Portfolio](https://ashwin-portfolio-olive.vercel.app/)
+### 💰 02. [AI Personal Finance Advisor](https://github.com/imashwin-max/AI-finance-advisor)
+> 📊 **Algorithmic Wealth Intelligence & Real-Time Expense Analytics**
+- 📈 Machine learning algorithms for predictive cash flow forecasting and dynamic budget recommendations.
+- 💳 Automated expense parsing, categorization, and AI health scoring via **FastAPI & Python**.
+- 📑 Dynamic **Recharts** visualizations and automated PDF monthly financial audit exports.
+- 🔗 **[Live Demo](https://ai-finance-advisor-jet.vercel.app/)** • **[GitHub Repository](https://github.com/imashwin-max/AI-finance-advisor)**
+
+---
+
+### 👁️ 03. [VisionTrack](https://github.com/imashwin-max/visiontrack)
+> 🎥 **High-Throughput Computer Vision & Telemetry Pipeline**
+- ⚡ Real-time object detection across 80 COCO classes with **sub-35ms inference latency** using **YOLOv8**.
+- 🎯 Persistent multi-object tracking through frame occlusions powered by **DeepSORT**.
+- 🔌 Low-latency live telemetry and detection metadata streamed over **FastAPI WebSockets**.
+- 🔗 **[GitHub Repository](https://github.com/imashwin-max/visiontrack)**
+
+---
+
+### 🐦 04. [Twiller](https://github.com/imashwin-max/Twiller-app)
+> 📱 **Full-Stack Microblogging Platform with Audio Tweets**
+- 💬 Real-time timeline feed with media attachments, likes, retweets, and nested discussions.
+- 📱 Phone OTP authentication via **Firebase Auth** and **Razorpay** premium subscriptions.
+- 🗄️ Node.js, Express, and MongoDB Atlas backend with robust JWT session management.
+- 🔗 **[Live Demo](https://twiller-app-main.vercel.app/)** • **[GitHub Repository](https://github.com/imashwin-max/Twiller-app)**
+
+---
+
+### 🍽️ 05. [Haven Sanctuary Restaurant](https://github.com/imashwin-max/Haven-Restaurent)
+> 🍷 **Luxury Dining Experience with Live Kitchen Kanban & AI Concierge**
+- 🤖 Integrated **Groq LLaMA 3 AI Sommelier** for tailored culinary recommendations.
+- ⚡ High-speed table booking with **Redis OTP verification** and real-time live order kitchen operations.
+- 🔗 **[GitHub Repository](https://github.com/imashwin-max/Haven-Restaurent)**
+
+---
+
+## 🏆 Verified Credentials & Honors 📜✨
+
+- 🥇 **TakeOver'26 Grand Finalist** — Ranked in the Top 1% across 1,200+ engineering teams
+- 🤖 **Anthropic Certified**:
+  - *Model Context Protocol (MCP): Advanced Topics*
+  - *Claude with Amazon Bedrock* & *Claude with Google Cloud Vertex AI*
+  - *Introduction to Subagents & Multi-Agent Orchestration*
+- 🟢 **NVIDIA Academy**: *AI for All: From Basics to GenAI Practice*
+- 🏛️ **IIT Bombay**: *Python 3.4.3 National Certification* (75% Score Distinction)
+- 🎓 **OpenAI Academy & NxtWave**: *Generative AI Mastery Workshop*
+- 📂 **[View All 30+ Verified Certificates on My Portfolio 🌟](https://ashwin-portfolio-olive.vercel.app/)**
+
+---
+
+## 📈 What I'm Focused On Right Now 🔭🌱
+
+- 🤖 Building scalable **Agentic AI workflows** and low-latency computer vision microservices.
+- ⚡ Exploring next-generation distributed full-stack architecture with **Next.js & Supabase**.
+- 💼 Open to **Software Engineering & AI/ML Internships / Full-time roles**!
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Amazing! 🚀
+
+💬 *"Consistency beats talent when talent doesn't work consistently."*
+
+📫 **Email:** [im.ashwinkk@gmail.com](mailto:im.ashwinkk@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/ashwin0027](https://www.linkedin.com/in/ashwin0027/)  
+🌐 **Website:** [ashwin-portfolio-olive.vercel.app](https://ashwin-portfolio-olive.vercel.app/)  
+🐙 **GitHub:** [github.com/imashwin-max](https://github.com/imashwin-max)
+
+</div>
